@@ -7,3 +7,4 @@ And here in this `Readme.md` file, put the screenshot of important results (logs
 
 ## Your screenshots in order:
 
+https://github.com/joseph1424/skills-deploy-to-azure2003/pulls
